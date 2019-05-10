@@ -7,7 +7,7 @@ frm.submit(function (e) {
             $("input").prop('disabled', true);
             $("#submit-form").attr("disabled", true);
         },
-        url: 'https://script.google.com/macros/s/AKfycbxBPvyTtfSIOIhwxScL7lON7j0KCOXQm-AXNdM6_VgCkWSjR4hn/exec',
+        url: 'https://script.google.com/macros/s/AKfycbxIKOm6nq0hqI-au3mI6cytiGYst3skND2R9fRtHJWlrbJU3Vqa/exec',
         data: frm.serialize(),
         success: function (data) {
             $('#SuccessModal').modal('show');
