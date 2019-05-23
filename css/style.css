@@ -9,13 +9,13 @@
 	font-size: 20px;
 	font-weight: bold;
 	margin: auto;
-	text-align: center;
+	text-align: right;
 }
 
 #text1
 {
 	text-align: center;
-	margin: 15px auto 0 auto;
+	margin: 10px auto 0 auto;
 	font-weight: bold;
 	font-size: 22px;
 	color: blue;
