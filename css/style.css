@@ -24,7 +24,7 @@
 #text2
 {
 	text-align: center;
-	margin: 15px auto 0 auto;
+	margin: 0px auto 15px auto;
 	font-weight: bold;
 	font-size: 22px;
 	color: #02435E;
@@ -33,7 +33,7 @@
 .text3
 {
 	text-align: justify;
-	margin: 15px 15px 0 15px;
+	margin: 5px;
 }
 
 #knockout 
